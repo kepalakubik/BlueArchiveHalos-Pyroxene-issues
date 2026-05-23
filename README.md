@@ -1,7 +1,7 @@
 ![Shirasu Azusa](https://cdn.modrinth.com/data/cached_images/8b579674a3fccee5091b852d18df63d5dfef883e_0.webp)
 
 [![Modrinth](https://img.shields.io/modrinth/dt/RJ9TPbT1?style=for-the-badge&color=00AF5C&labelColor=2d2d2d&label=downloads&logo=modrinth)](https://modrinth.com/mod/blue-archive-halos-pyroxene)
-[![CurseForge](https://cf.way2muchnoise.eu/full_1545653_downloads.svg?badge_style=for_the_badge)]()
+[![CurseForge](https://cf.way2muchnoise.eu/full_1545653_downloads.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/blue-archive-halos-pyroxene)
 
 ## Description
 This mod brings the students' halos from Blue Archive into Minecraft by trading Netherite Helmet from Armorer Villager. \
